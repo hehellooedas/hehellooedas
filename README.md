@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.34
